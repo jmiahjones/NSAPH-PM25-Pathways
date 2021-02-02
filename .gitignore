@@ -1,5 +1,4 @@
-data/*.csv
-data/*.rds
-data/*.RDS
-results/*.rds
-results/*.RDS
+data/*
+results/*
+.Rproj.user
+cluster.log
